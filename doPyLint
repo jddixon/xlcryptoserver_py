@@ -1,0 +1,5 @@
+# xlcryptoserver_py/doPyLint
+
+pylint setup.py  xlcryptoserver   \
+    test*.py
+
