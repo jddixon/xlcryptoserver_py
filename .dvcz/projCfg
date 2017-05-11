@@ -2,7 +2,7 @@
 project:xlcryptoserver_py
 package:xlcryptoserver
 mainlang:py
-version:0.0.1
+version:0.0.2
 versionDate:2017-03-27
 :?dirs?:
 dir:std:ghpDoc
@@ -26,7 +26,6 @@ code:std:pylintrc
 code:std:.coveragerc
 code:std:check.summary
 code:std:MANIFEST.in
-code:std:projCfg
 txt:std:LICENSE-MIT.md
 txt:std:CHANGES
 txt:std:README.md
