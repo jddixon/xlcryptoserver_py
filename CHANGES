@@ -1,11 +1,15 @@
 py/xlcryptoserver_py/CHANGES
 
+v0.0.3
+    2017-05-11
+        * drop dist/* from repos; plus minor edits                  SLOC  335
 v0.0.2
     2017-03-27
         * add configuration files, pylint, checkCoverage            SLOC  292
 v0.0.1
     2017-03-26
         * initial commit
+
 
 
 
