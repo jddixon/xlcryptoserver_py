@@ -7,37 +7,40 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xlcryptoserver_py v0.0.3
-2017-05-11 18:22:03
+xlcryptoserver_py v0.0.4
+2017-06-28 14:46:45
 # BEGIN CONTENT #
 xlcryptoserver_py
  .dvcz
-  builds 26e7961c2e02f73b008dcb36b2f7339847cdc664
+  builds c44ff625bde81cc67604c39b9276633c2c1439c3
   copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList 4057bc1f414919c4190de46dfdd148345d10d4f2
+  lastBuildList a42401c9a785ebc7afb458541c78e83a3a123bfc
   license 5977a55c75bb4612004451a56b0b4c22d9d3311d
   projCfg 19aaeb6541e0eeed4f303d4a2f07aee34c70a71e
   projCfg.local 0466bb36ad59c300513705ca5208e1c05e40685a
-  version 1a49585f3dce3c53fd22da97d7542a5801dc7511
+  version d23ef0c942a6d5492671fb716db67c3e753f6033
  .gitignore 680b1aca0d2418b3b46a7e426df8bd31bd00e64f
  .gitignore.local dc759996ca1366caf080fde4a98d37e39e382eae
- CHANGES 63f71cb8ccecc789ab71b176c47596cad8dce4ef
+ CHANGES a8a6d765b8b9ae22de027ec37035335d1c0abb3e
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
+ MANIFEST.in e6369ad0ff899a058bf6fb96e656524fbd9b63a1
  README.md 8346e90dc178d8c8659a89f72b79bb83947eeded
  TODO 819d443fb5654bb87baefae3fa6bf40b5f46ad72
  bkp2U faedfe1640a41dcbc3c54beb709ce59758d464e1
- checkCoverage 15a7b37a4132ed8c4b6a490891b750972df3d668
- countem a5dab3e049da954d8880b1bf84ab801ea3c7c13a
- doPyLint 1ab0d6f7569d62b31f41c242950c2c030cfd934a
+ checkCoverage 248517777dfe9eb3b95ed7a40e97c860832b3492
+ countem 863573a9d201e7236a1340f955db7c2a01db1511
+ doPyLint a09bc4bb224b6ce5f8a6fec69c400934e7af6106
  ghpDoc
   index.md 6a4d5f6c2be1a17c5e3c42f8384ae33ac21f4cd2
  installit 10478690838994f81d6f5301f2b5226d9c1419ca
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- setup.py 63d0e33bb0452719499ea136d756a3b74babca23
- styleit 9ce2f9126fa7f52ca599209cae87c3888fb66eba
- test.all 9705f6bddea77214179b501d9bd9952efc4019fa
- xlcryptoserver
-  __init__.py d98593ee6561e043704ff77cbec6bb3dcae791f7
+ setup.py a5446e94f5b4ef2c74c0ed8017fbf128f1a14ba5
+ src
+  xlcryptoserver
+   __init__.py e2fd9783b87bb85b18581410da3dad07926f3ba7
+ styleit f7468ff31e40081aa4cc7244113058d4806291a7
+ test.all 60bd0d6cc33b357192dae81a735adf87c8288c73
+ tests
 # END CONTENT #
 
-dx9RIqXzUiIIZQrILsTWYbr5bUq9MqAPaWQur/IIFG2H0/roRj73QH9OPHc3jTcVjvaB3zSyHbW6jIKF1nUXU+IZ5f9MStRAK18Rs/HKW+QvXfVuQ3E7QUl6XopHYW5AoEzCGzdXqHChNPpxnOJhpUKGl2WcoFPHq2WBnoZfeYeKk5/gJAKiio9JhTRSc0Y557rV0mbAniTEtwnw52+CfBNU7gAKOq5L2uf/uhRK+V5ZSb+p5JxAVjFm0HfhkXDxwogfqTO6tkoIF9hI5+A0E9rm5flgefZ6EpgiivJ9AwJYC3mhysbDGfvF9bPowNiAG1Ox//cj0KytaPQ6hlu6bw==
+JAzMh9+OTpku5D3Nqt5LBSIxf556WSefRHq3NLhInIbFUH0VWplu+ObuNGvqRWvj9oT52N+Y/QyDzqdx47mMvD26BJR1XFhvjPwX9aFE5QB2NnscSEEe8cSkXSo3+YK9DoJpMdtXBw+tEsz6A4CvnkpRsJFPhTRwpIhpMuCAU9sl+OU4LPEn0t7VNGBbmCAc0RTsW6HZ1dMKcGWRtBHFgixJL/7ySxSa3z2pyqzt/5olp+GNrOcdzDLp/w0zcuP/JHN4AJQ/rt53pqWvlboiKhulhpkFlexnvR/2tJD+ibUKcGzeHCkq7R5zFUB5Pn8ypjUBw2hp7jHSTlr90+6wmw==
