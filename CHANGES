@@ -1,5 +1,8 @@
 py/xlcryptoserver_py/CHANGES
 
+v0.0.6
+    2017-08-23
+        * add tox.ini, *requirements.txt; minor edits cfg files     SLOC  397
 v0.0.5
     2017-08-02
         * rewrite setup.py, MANIFEST.in; edit cfg files             SLOC  353
@@ -15,6 +18,7 @@ v0.0.2
 v0.0.1
     2017-03-26
         * initial commit
+
 
 
 
