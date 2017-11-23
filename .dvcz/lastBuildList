@@ -7,25 +7,19 @@ Giaje1YAJPNVBt3dlOA5lhBp4GpSYBskJ9UR2Zyt3lgAGK3dEwxYETLMh9VWEV8i
 k2lyCIE/V/CDb9eVDYQgYSJYrnQ/JAPST7NbcY8aI+/0l7QVBhLBpmOCvmS6ofvz
 /QIDAQAB
 -----END PUBLIC KEY-----
-xlcryptoserver_py v0.0.6
-2017-08-23 22:06:01
+xlcryptoserver_py
+2017-11-23 22:41:29
 # BEGIN CONTENT #
 xlcryptoserver_py
- .cache
-  v
-   cache
-    lastfailed bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f
  .dvcz
-  builds 833d2678a738330a4f39201c2286bd5c51e60f99
-  copyright 04e8696e6424c21d717e46008780505d598eb59a
-  lastBuildList 46362b71f3ed892cdd3312bde0ca7d270383c355
-  license 5977a55c75bb4612004451a56b0b4c22d9d3311d
+  builds 0dcd4e7724074e10e1f7a4d9984ae314c4881076
+  lastBuildList acbdf57edca1042fb8a4b712fa5d7e869409ae3d
   projCfg 7d019dd5198c33419624b113e7bef02e8bd12828
   projCfg.local 0466bb36ad59c300513705ca5208e1c05e40685a
-  version 7602c5ffac5b9fd3cb56c4affd9f385e5429c517
- .gitignore 406ccb6b0393c3e2c4d8437bcdc11e492e93808a
+  projConfig.toml f2320ee76893f1dcc41dd9c9d9e76828549c5b5b
+ .gitignore 7de6b56ffe9e21d458fd606f462f7854743e09bb
  .gitignore.local dc759996ca1366caf080fde4a98d37e39e382eae
- CHANGES c219869d374e73acaf993b67332f1731427db528
+ CHANGES 1b41fefebb5d4ac48a94e420e03bc76c1576b56e
  LICENSE-MIT.md aec2b90058ed291d26eef53badc44802cda9bcde
  MANIFEST.in ee87ecf6928c0c4c69376734eba9cf532ce748b1
  README.md 8346e90dc178d8c8659a89f72b79bb83947eeded
@@ -38,16 +32,16 @@ xlcryptoserver_py
   index.md 6a4d5f6c2be1a17c5e3c42f8384ae33ac21f4cd2
  installit 10478690838994f81d6f5301f2b5226d9c1419ca
  pylintrc dd234fda24a547a9071f1e4608a3c1f3b7de9aa0
- requirements.txt 29cbd44afc523b0ca1e64a666a7a9565df82e968
- setup.py 3500de2f5656b58d578dd9a16c6b1893950656a9
+ requirements.txt 14a81c16e1f47af440d404a8c8b77542794d2dc8
+ setup.py 5231290f76c17a1d16f69209628b0502afee75ec
  src
   xlcryptoserver
-   __init__.py e82f468f2fbf46920bbad8587bf6554b108f3273
+   __init__.py 8044566119d2213a914573d63dd9d451458c5747
  styleit 18649ae0774f8cd741ba00b1e0d795bca9cb41a8
  test.all d49ddad68d91dccef486697a15bda834e52e81ea
  test_requirements.txt dc87c38eb9b04a39d0e3bc75b3edc791335a5238
  tests
- tox.ini 21ffd838c5afdd4e39b819498ccd1d6ba209d02f
+ tox.ini 2eb1557694df50eaefe4ade81c2fbafb3763a769
 # END CONTENT #
 
-gBGAadTYTmCk1GEANILpR4vMXpCnakJw5kNuN8sxEl4dJpnK8mONSzXgWZgESgBib2QCeR3A/wFIwDmAqFDF8/33A1nVuT8l/YeYPFf2tXyB5V5v9L/fL9GQpC4uzgXY7J+Rsn4BIdXxQr+hnC27CLG+p3D7o9UPM1cfXuy91mLhJ6MABRiZU2vcbhVyAJnb0a0xaizoHSRbVhDvmn4ZuA+A7tn3IUQgbAVoLEPG6KymgUtiUcIvuGkrakeHklsTNvC/rolPjadlC0FSBxCo28dv/JUjFfiQQiqHkd3C/lWkpzCzo+v1ocaOS+bkD8fLVl+qRHQxGFiURCP3VH2TOA==
+JXKnMlqEmDc8Q0NLvXCE+S+j2ngBans9aGzfqjRs+GJwaV0Hek0RsZdZeUYLY7NRn1o4mm0dTn8HCAVPiJQHi9lD6lzcmX502DC0hdocdGUNGYHm/ccqsSStthUmdKSJKRGBk+lFBvvmA0yXd6xoS36ynILWdHbSIO0W3OrxH8OBxMsyKWHL+2eYbtSfaALdByBLBBETRDYT7Z9Be4NHSi8hWnCB9pFR0ZEfTiG7NG2+HbCNNRIBSEULVWXFC9EaKs2xrc7tmpOlYlt6GLQzdPKKzMjVsUbtpR2owg1RdLZhuMaK/uk1N5XPl7iM8rELUN+XiYW45iXPS7VNPWMjAw==
