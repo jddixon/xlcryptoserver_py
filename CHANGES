@@ -1,5 +1,8 @@
 py/xlcryptoserver_py/CHANGES
 
+v0.0.8
+    2017-12-29
+        * pylinting; update config files                            SLOC  430
 v0.0.7
     2017-11-23
         * add projConfig.toml, drop some .dvcz/*                    SLOC  436
@@ -21,6 +24,7 @@ v0.0.2
 v0.0.1
     2017-03-26
         * initial commit
+
 
 
 

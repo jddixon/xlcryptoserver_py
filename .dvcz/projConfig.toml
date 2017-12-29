@@ -1,34 +1,30 @@
-# projConfig.toml for xlcryptoserver_py
-
 [meta]
-    version = '0.1.0'
+version = "0.1.0"
 
 [project]
-    name = 'xlcryptoserver_py'  # distro name
-    package = 'xlcryptoserver_py'  # internal name
-    proj_dir = '/home/jdd/dev/py/xlcryptoserver_py'
-    main_lang = 'py'
-    version = '0.0.7'
-    version_date = '2017-11-23'
-    author = 'Jim Dixon'
-    author_email = 'jddixon@gmail.com'
-    copyright = '2017'
-    description = 'cryptoserver layer for xlattice_py'
-    dev_status = 'pre_alpha'
-    license = 'mit'
-    state = 'shared'
-    url = 'https://jddixon.github.io/xlcryptoserver_py'
+name = "xlcryptoserver_py"
+package = "xlcryptoserver_py"
+main_lang = "py"
+version = "0.0.8"
+version_date = "2017-12-29"
+author = "Jim Dixon"
+author_email = "jddixon@gmail.com"
+copyright = "2017"
+description = "cryptoserver layer for xlattice_py"
+dev_status = "pre_alpha"
+license = "mit"
+relpath = "py/xlcryptoserver_py"
+state = "shared"
+url = "https://jddixon.github.io/xlcryptoserver_py"
 
 [py]
-    packages=['xlcryptoserver']
-    package_dir = ['src']
-    test_dir = ['tests']
-    py_modules=[]
-    scripts=[]
-    ext_modules=[]
-
-    # sdReq output
-    distshare=[]
-    env_vars=[]
-    requirements=['setuptools']
-    test_requirements=[]
+packages = [ "xlcryptoserver",]
+package_dir = [ "src",]
+test_dir = [ "tests",]
+py_modules = []
+scripts = []
+ext_modules = []
+distshare = []
+env_vars = []
+requirements = [ "setuptools",]
+test_requirements = []
