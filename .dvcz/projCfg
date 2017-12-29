@@ -2,8 +2,8 @@
 project:xlcryptoserver_py
 package:xlcryptoserver
 mainlang:py
-version:0.0.5
-versionDate:2017-08-02
+version:0.0.7
+versionDate:2017-11-23
 :?dirs?:
 dir:std:ghpDoc
 dir:std:dist
@@ -14,11 +14,14 @@ dir:pkg:xlcryptoserver
 dir:clr:build
 dir:clr:tmp
 :?files?:
+code:std:.dvcz/projConfig.toml
 code:std:.dvcz/projCfg
 code:std:.dvcz/projCfg.local
 code:std:.dvcz/builds
 code:std:.dvcz/lastBuildList
 code:std:.dvcz/version
+code:std:.dvcz/copyright
+code:std:.dvcz/license
 code:std:.dvczignore
 code:std:.dvczignore.local
 code:std:.gitignore
