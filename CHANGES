@@ -1,5 +1,8 @@
 py/xlcryptoserver_py/CHANGES
 
+v0.0.9
+    2018-03-14
+        * edit setup.py and tox config files                        SLOC  426
 v0.0.8
     2017-12-29
         * pylinting; update config files                            SLOC  430
@@ -24,6 +27,7 @@ v0.0.2
 v0.0.1
     2017-03-26
         * initial commit
+
 
 
 
